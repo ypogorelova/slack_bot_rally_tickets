@@ -1,0 +1,3 @@
+dotenv==0.0.5
+pyral==1.1.1
+requests==2.10.0
